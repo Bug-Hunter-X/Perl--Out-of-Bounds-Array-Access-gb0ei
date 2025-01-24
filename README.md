@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in Perl: accessing an array element that is outside the defined index range.  The example code attempts to access the fourth element of a three-element array.  The solution shows how to check array bounds before accessing elements to prevent unexpected results.
